@@ -525,12 +525,12 @@ export default function HomePage() {
               <div className="summary-brand-row">
                 <div className="summary-logo-badge">
                   <img
-                    src="/logo.png"
-                    alt="webnibo badge"
+                    src="/webkyro-w-icon-transparent-1024x1024.png"
+                    alt="webkyro badge"
                   />
                 </div>
                 <div>
-                  <h4 className="summary-title">webnibo</h4>
+                  <h4 className="summary-title">webkyro</h4>
                   <div className="facebook-stars text-amber-400">★★★★★</div>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function HomePage() {
                 Rated <strong>5.0 / 5.0</strong> based on verified Facebook reviews
               </p>
               <a
-                href="https://facebook.com/webnibo"
+                href="https://facebook.com/webkyro"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="write-review-btn inline-flex items-center gap-2"

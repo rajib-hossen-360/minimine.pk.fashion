@@ -128,7 +128,7 @@ export default function Footer() {
           <Link href="/" className="footer-logo-badge">
             <img
               src="/logo.png"
-              alt="webnibo Footer Brand"
+              alt="webkyro Footer Brand"
             />
           </Link>
         </div>

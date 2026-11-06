@@ -128,10 +128,10 @@ export default function Header() {
           </button>
 
           {/* Logo */}
-          <Link href="/" className="brand-logo-link" aria-label="webnibo Home">
+          <Link href="/" className="brand-logo-link" aria-label="webkyro Home">
             <img
               src="/logo.png"
-              alt="webnibo Logo"
+              alt="webkyro Logo"
               className="brand-logo-img"
             />
           </Link>
@@ -220,7 +220,7 @@ export default function Header() {
               <Link href="/" onClick={() => setMobileOpen(false)}>
                 <img
                   src="/logo.png"
-                  alt="webnibo Logo"
+                  alt="webkyro Logo"
                   className="h-9 w-auto"
                 />
               </Link>
